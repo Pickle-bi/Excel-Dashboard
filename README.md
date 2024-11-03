@@ -1,11 +1,11 @@
 # Excel-Dashboard
-Putting data into graphics for easy interpretation
-Dirty data is cleaned and some information that is relevant to the comapny is derived
-The general over view was to find out what the customer purchase behaviour was
-Data like
+In this project, I focused on transforming raw data into visual graphics for easier interpretation. I cleaned the data to eliminate inaccuracies and extracted relevant insights for the company. The primary objective was to analyze customer purchasing behavior.
+
+Key metrics examined included:
+
 Loyalty status
-Average amount spent by each age group
-Total purchase by region
+Average spending by age group
+Total purchases by region
 Purchase frequency by product category
-Purchase amount against income
-These are to help organisations make better decisions in serving the people and at the same time making ends meet.
+Purchase amounts relative to income
+These insights are designed to help organizations make informed decisions that enhance customer service while ensuring financial sustainability.
